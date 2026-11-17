@@ -1,0 +1,6 @@
+{
+  "name": "PyCraft 互動程式學院",
+  "description": "互動式 Python 程式設計學習平台，整合即時程式執行、單步追蹤除錯、記憶體與呼叫堆疊視覺化，以及漸進式闖關測驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
